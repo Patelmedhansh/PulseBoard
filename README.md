@@ -166,4 +166,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email support@pulseboard.io or join our [Discord community](https://discord.com/invite/KxUFSRkU7j).
+For support, email medhanshcloud@gmail.com or join our [Discord community](https://discord.com/invite/KxUFSRkU7j).
